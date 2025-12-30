@@ -1,0 +1,1 @@
+PRODUCT,1,mobile,500.0,1
